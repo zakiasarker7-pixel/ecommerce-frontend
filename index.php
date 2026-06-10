@@ -1,0 +1,1 @@
+<?php include 'config/db.php'; echo 'E-commerce Home'; ?>
